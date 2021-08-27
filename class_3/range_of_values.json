@@ -1,0 +1,12 @@
+{
+  "boomer": {
+    "numero di foto di buongiorno": [20,100],
+    "numero di like per foto": [1,30],
+    "numero di commenti per foto" : [10, 40]
+  },
+  "non_boomer": {
+    "numero di foto di buongiorno": [1,5],
+    "numero di like per foto": [1,100],
+    "numero di commenti per foto" : [4, 50]
+  }
+}
