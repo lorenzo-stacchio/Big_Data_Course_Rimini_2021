@@ -6,8 +6,6 @@ import numpy as np
 
 def create_new_features(dataframe: pd.DataFrame, features_name: str, range_of_values: (int, int), n_values: int):
     print(range_of_values[0], range_of_values[1])
-    #possible_values = [x for x in range(range_of_values[0], range_of_values[1]+1)]
-    # list_of_values = random.choices(possible_values, k=n_values)
     mu = (int(range_of_values[1]+1)+int(range_of_values[0]))//2
     sigma = (int(range_of_values[1]+1) - int(range_of_values[0]))//5
     print(features_name, mu,sigma)
