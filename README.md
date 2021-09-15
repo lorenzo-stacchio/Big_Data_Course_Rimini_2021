@@ -5,9 +5,9 @@
 
 Questa repository contiene tutto il materiale didattico utilizzato durante il corso di "Laboratorio Big Data" in collaborazione con il comune di Rimini.
 
-Questo corso è stato sviluppato dal professor [Gustavo Marfia](https://www.unibo.it/sitoweb/gustavo.marfia) assieme all [sottoscritto](https://www.unibo.it/sitoweb/lorenzo.stacchio2/), [Alessia Angeli](https://www.unibo.it/sitoweb/alessia.angeli2) e [Valentina Pellicioni](https://www.unibo.it/sitoweb/valentina.pellicion2).
+Questo corso è stato sviluppato dal professor [Gustavo Marfia](https://www.unibo.it/sitoweb/gustavo.marfia) assieme al [sottoscritto](https://www.unibo.it/sitoweb/lorenzo.stacchio2/), [Alessia Angeli](https://www.unibo.it/sitoweb/alessia.angeli2) e [Valentina Pellicioni](https://www.unibo.it/sitoweb/valentina.pellicion2).
 
-Di seguito si trova una tabella descrittiva con le date del corso, l'argomento trattato, il link alle slide e al corrispettivo file google colab.
+Di seguito si trova una tabella descrittiva con le date, l'argomento trattato, il link alle slide e al corrispettivo file google colab usate durante il corso.
 
 
 | Data  | Argomento | Professore | Slide | Google Colab lezione |
