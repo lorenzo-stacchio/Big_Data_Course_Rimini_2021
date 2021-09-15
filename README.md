@@ -6,3 +6,10 @@ Big_Data_Course_Rimini_2021
 
 ## Class 3
 Boomer non boomer classification.
+
+
+## To install only used dependencies
+
+pip install pipreqs
+
+pipreqs "path/to/dir/project"  --encoding utf-8
