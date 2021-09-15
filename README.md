@@ -1,4 +1,4 @@
-# Big_Data_Course_Rimini_2021
+# Corso Big Data in collaborazione con [UniRimini](https://www.unirimini.it/)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb) 
 
 [![Varlab Site](https://img.shields.io/badge/-sito%20varlab-blue?style=flat-square&logo=Google%20Chrome)](https://site.unibo.it/varlab/en) 
