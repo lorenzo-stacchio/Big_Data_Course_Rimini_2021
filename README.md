@@ -13,7 +13,8 @@ Di seguito si trova una tabella descrittiva con le date, l'argomento trattato, i
 | Data  | Argomento | Professore | Slide | Google Colab lezione |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | 27/09/2021  | Introduzione ai Big Data | [Gustavo Marfia](https://www.unibo.it/sitoweb/gustavo.marfia) |  Non presente | Non presente |
-| 05/11/2021  | Programmazione Python | [Lorenzo Stacchio](https://www.unibo.it/sitoweb/lorenzo.stacchio2) |  [01_python_programming.pdf](Python_programming/01_python_programming.pdf) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1K_i8PpMjk3zpTLIJUlCFaEAhRrmiCW37?usp=sharing) |
+| 06/11/2021  | Programmazione Python | [Lorenzo Stacchio](https://www.unibo.it/sitoweb/lorenzo.stacchio2) |  [01_python_programming.pdf](Python_programming/01_python_programming.pdf) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1K_i8PpMjk3zpTLIJUlCFaEAhRrmiCW37?usp=sharing) |
+| 13/11/2021  | Tecnologie Big Data | [Lorenzo Stacchio](https://www.unibo.it/sitoweb/lorenzo.stacchio2) |  [02_big_data_paradigms.pdf](Big Data/02_big_data_paradigms.pdf) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uYB2VrHVHGBObj3pAWIUA4tJcgX_gTJj?usp=sharing) |
 
 
 ## For developers: install only used dependencies
