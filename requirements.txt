@@ -1,5 +1,4 @@
 anyio==2.0.2
-apturl==0.5.2
 argon2-cffi==20.1.0
 async-generator==1.10
 attrs==20.3.0
@@ -8,11 +7,9 @@ backcall==0.2.0
 beautifulsoup4==4.8.2
 bleach==3.2.1
 blinker==1.4
-Brlapi==0.7.0
 certifi==2019.11.28
 cffi==1.14.4
 chardet==3.0.4
-chrome-gnome-shell==0.0.0
 Click==7.0
 colorama==0.4.3
 command-not-found==0.3
