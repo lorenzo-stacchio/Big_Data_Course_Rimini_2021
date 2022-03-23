@@ -4,7 +4,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 [![Varlab Site](https://img.shields.io/badge/-sito%20varlab-blue?style=flat&logo=Google%20Chrome)](https://site.unibo.it/varlab/en)
-
+<a><img src="https://visitor-badge.laobi.icu/badge?page_id=lorenzo-stacchio.AI-For-Fashion" alt="visitors"></a>
 </p>
 Questa repository contiene tutto il materiale didattico utilizzato durante il corso di "Laboratorio Big Data" in collaborazione con il comune di Rimini.
 
